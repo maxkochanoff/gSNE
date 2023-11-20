@@ -5,6 +5,8 @@ It was my course project in the Master's program at Novosibirsk State University
 
 The obtained results were presented at 60th International Student Scientific Conference ISSC and were awarded a first-degree diploma.
 
+Info about ISSC-2022: https://conf.nsu.ru/en/issc_2022
+
 
 
 MNIST gNSE projection:
