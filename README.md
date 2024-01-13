@@ -1,7 +1,7 @@
 # gSNE
 gSNE is an extended version of the tSNE algorithm, offering enhanced capabilities for dimensionality reduction. It can effectively reduce the dimensionality of data while preserving its essential features. This problem is relevant because the task of visualizing high-dimensional data is a crucial step in the preliminary analysis of almost any machine learning task.
 
-It was my course project in the Master's program at Novosibirsk State University in 2022. The project necessitated a comprehensive examination of data visualization techniques, involving the exploration of a novel approach that extends the t-SNE method. **This extension replaced the Student's distribution with a Generalized Normal Distribution and fine-tuned the distribution parameters using the t-SNE loss function for optimization. **
+It was my course project in the Master's program at Novosibirsk State University in 2022. The project necessitated a comprehensive examination of data visualization techniques, involving the exploration of a novel approach that extends the t-SNE method. This extension replaced the Student's distribution with a Generalized Normal Distribution and fine-tuned the distribution parameters using the t-SNE loss function for optimization.
 
 
 The obtained results were presented at 60th International Student Scientific Conference ISSC-2022 and were awarded a first-degree diploma.
